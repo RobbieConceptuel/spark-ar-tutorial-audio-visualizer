@@ -5,6 +5,8 @@
 Welcome in this Spark AR Studio tutorial. 
 In this project, we will learn how to make an audio visualizer using the audio features in Spark AR.
 
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/AudioVisualizer_FinalResult.jpg" width="300">
+
 This tutorial will cover :
 * importing the 3d object
 * Make it react to audio using the Patch Editor
@@ -37,7 +39,7 @@ Once our project is opened.
 Let's drag and drop the 3D model in the project.
 Drag and drop the 3D model in the placer.
 
-
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Scene.png" width="300">
 
 ### Material :
 Import an environment texture :
@@ -46,7 +48,14 @@ Import an environment texture :
 
 ### Audio Analyzer :
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/AudioAnalyzer_Info.png" width="300">
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Scale_PatchEditor.png" width="300">
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Transition_1element.png" width="300">
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Transition_2elements.png" width="300">
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Screenshot_SparkAR_Audio_Visualizer.png" width="600">
+
+### Preview and Upload :
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Preview_effect.png" width="300">
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Upload_and_Export.png" width="300">
 
 ## What’s next?
 Learn more about Spark AR Studio here :
