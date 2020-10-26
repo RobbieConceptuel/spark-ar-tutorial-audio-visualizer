@@ -38,11 +38,10 @@ Let's drag and drop the 3D model in the project.
 Drag and drop the 3D model in the placer.
 
 
-## Topic 2
-Import an environment texture :
-<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Import_EnvironmentTexture.png" width="300">
 
 ### Material :
+Import an environment texture :
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Import_EnvironmentTexture.png" width="300">
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Material.png" width="300">
 
 ### Audio Analyzer :
