@@ -44,6 +44,7 @@ Import an environment texture :
 
 ### Material :
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Material.png" width="300">
+
 ### Audio Analyzer :
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/AudioAnalyzer_Info.png" width="300">
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Screenshot_SparkAR_Audio_Visualizer.png" width="300">
