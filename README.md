@@ -183,4 +183,4 @@ Link to additional resources to learn : https://sparkar.facebook.com/ar-studio/l
 
 [**Join the Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
 
-*Written with love by Robbie Conceptuel - 2020*
+*Made with love by Robbie Conceptuel - 2020*
