@@ -18,6 +18,15 @@ In this tutorial I’m using the version 99 of Spark AR Studio.
 
 Spark AR is the software we can download for free to create augmented reality (AR) for the facebook ecosystem.
 
+## Walkthrough Video
+
+<a href="https://www.youtube.com/embed/1JrhmM9n-BU">
+  
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailTutorial.png" width="500">
+  </a>
+
+#### [Link of the video](https://www.youtube.com/embed/1JrhmM9n-BU)
+
 ## Getting Started
 
 For this project we need :
@@ -41,16 +50,18 @@ Once our project is opened.
 Let's drag and drop the 3D model in the project.
 Drag and drop the 3D model in the placer.
 Select the audioBar in your scene and change the scale value to 0.1 on your right like this :
-<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/ScaleaudioBar.png" width="300">
+
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/ScaleaudioBar.png" width="200">
 
 Once done, duplicate the audioBar and change the position of the second audioBar value to 0.2 on the X axis.
 like this :
-<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/PositionaudioBar2.png" width="300">
+
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/PositionaudioBar2.png" width="200">
 
 Repeat this step until you have 8 audioBar.
 The scene on your left top of the screen should look like this :
 
-<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Scene.png" width="300">
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Scene.png" width="200">
 
 ### Material
 Now let's create the materials we gonna apply on the 3d object (audioBar).
@@ -66,11 +77,12 @@ Now that you have your material, we can improve it by :
 * changing the colour
 
 Import an environment texture :
-<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Import_EnvironmentTexture.png" width="250">
+
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Import_EnvironmentTexture.png" width="200">
 
 The material should look like this :
 
-<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Material.png" width="300">
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Material.png" width="250">
 
 ## Make the 3D object react to audio :
 ### Edit Properties
@@ -80,7 +92,7 @@ For this we go under : Project > Edit Properties > Uncheck Facebook
 
 Like this :
 
-<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/EditProperties.png" width="300">
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/EditProperties.png" width="500">
 
 ### Audio Analyzer
 
@@ -127,20 +139,27 @@ like this :
 
 
 Link the first output of your Audio Analyzer to the Speaker output (yellow element) :
+
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Transition_1element.png" width="600">
+
 Repeat the step with the audioBar2
+
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Transition_2elements.png" width="600">
 
 Repeat these steps for all your audioBar objects, your patch should look like this :
+
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Screenshot_SparkAR_Audio_Visualizer.png" width="600">
 
 ## Preview and Upload :
 
 Now that we are finished ;
 We can preview our effect to your Spark AR Player app or send to your instagram account :
+
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Preview_effect.png" width="300">
+
 We're ready to upload !
 On bottom of your screen, click Upload and Export and follow the process of uploading a filter to your account
+
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Upload_and_Export.png" width="200">
 
 ## What’s next?
