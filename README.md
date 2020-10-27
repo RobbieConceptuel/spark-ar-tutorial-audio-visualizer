@@ -182,3 +182,5 @@ Link to the project on GitHub : https://github.com/RobbieConceptuel/spark-ar-tut
 Link to additional resources to learn : https://sparkar.facebook.com/ar-studio/learn/
 
 [**Join the Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
+
+*Written with love by Robbie Conceptuel - 2020*
