@@ -41,11 +41,11 @@ Once our project is opened.
 Let's drag and drop the 3D model in the project.
 Drag and drop the 3D model in the placer.
 Select the audioBar in your scene and change the scale value to 0.1 on your right like this :
-<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Scene.png" width="300">
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/ScaleaudioBar.png" width="300">
 
-Once done, duplicate the audioBar and change the position value to 0.2 on the X axis.
+Once done, duplicate the audioBar and change the position of the second audioBar value to 0.2 on the X axis.
 like this :
-<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Scene.png" width="300">
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/PositionaudioBar2.png" width="300">
 
 Repeat this step until you have 8 audioBar.
 The scene on your left top of the screen should look like this :
@@ -68,6 +68,8 @@ Now that you have your material, we can improve it by :
 Import an environment texture :
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Import_EnvironmentTexture.png" width="250">
 
+The material should look like this :
+
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Material.png" width="300">
 
 ## Make the 3D object react to audio :
@@ -77,6 +79,8 @@ We have to disable Facebook as a platform.
 For this we go under : Project > Edit Properties > Uncheck Facebook
 
 Like this :
+
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/EditProperties.png" width="300">
 
 ### Audio Analyzer
 
@@ -106,6 +110,8 @@ Here :
 Right click in the Patch Editor and add a 'Transition' element.
 Change the values of the transition element to make it look like this :
 
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/TransitionPatch.png" width="300">
+
 Link the Audio Analyzer > Transition > audioBar '3D Scale'
 
 ### Add a Speaker
@@ -117,6 +123,7 @@ In you scene :
 
 like this :
 
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/ActivateSpeaker.png" width="300">
 
 
 Link the first output of your Audio Analyzer to the Speaker output (yellow element) :
