@@ -3,7 +3,7 @@
 ## Overview
 
 Welcome in this Spark AR Studio tutorial . 
-In this project, we will learn how to make an audio visualizer using the audio features in Spark AR.
+In this project, we will learn how to make an **audio visualizer** using the audio features in Spark AR.
 This is a tutorial for beginner.
 
 At the end of the tutorial you will learn how to make an Audio Visualizer like this:
@@ -16,7 +16,7 @@ This tutorial will cover :
 
 In this tutorial I’m using the version 99 of Spark AR Studio.
 
-Spark AR is the software we can download for free to create augmented reality (AR) for the facebook ecosystem.
+**Spark AR** is the software we can download for free to create augmented reality (AR) for the facebook ecosystem.
 
 ## Walkthrough Video
 
@@ -35,8 +35,8 @@ For this project we need :
 * Having Spark AR Player installed in your phone [link to Spark AR Player](https://sparkar.facebook.com/ar-studio/learn/downloads/)
 
 
-To start this tutorial, you need to download the software Spark AR Studio and open it.
-You also need the 3D model 'audioBar.fbx' in the folder '3D-model'.
+To start this tutorial, you need to **download** the software Spark AR Studio and **open** it.
+You also need the 3D model '**audioBar.fbx**' in the folder '3D-model'.
 We will see the audio nodes in the patch editor and use it.
 
 ## Setting up the scene
@@ -47,30 +47,34 @@ Let's start our project by :
 3. Choose Plane Tracking
 
 Once our project is opened.
-Let's drag and drop the 3D model in the project.
-Drag and drop the 3D model in the placer.
+Let's **drag and drop** the 3D model in the project **then drag the object in the placer**.
+
 Select the audioBar in your scene and change the scale value to 0.1 on your right like this :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/ScaleaudioBar.png" width="200">
 
-Once done, duplicate the audioBar and change the position of the second audioBar value to 0.2 on the X axis.
+When done, duplicate the audioBar and change the position of the second audioBar value to 0.2 on the X axis.
 like this :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/PositionaudioBar2.png" width="200">
 
-Repeat this step until you have 8 audioBar.
+Repeat this step until you have **8 audioBar**.
 The scene on your left top of the screen should look like this :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Scene.png" width="200">
 
 ### Material
 Now let's create the materials we gonna apply on the 3d object (audioBar).
-For this project I will create 8 materials with different colors.
+For this project I will create **8 materials** with different colors.
 
 To apply a material :
 * select the cube inside the audioBar
 * on the right, create a material
 * select your material on the left side of your screen
+
+Like this :
+
+<img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/ApplyMaterial.png" width="600">
 
 Now that you have your material, we can improve it by :
 * changing the 'Shader Type' and choose 'Physically-Based'
@@ -146,29 +150,35 @@ Repeat the step with the audioBar2
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Transition_2elements.png" width="600">
 
-Repeat these steps for all your audioBar objects, your patch should look like this :
+Repeat these steps for all your audioBar objects.
+
+Your patch should look like this :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Screenshot_SparkAR_Audio_Visualizer.png" width="600">
 
 ## Preview and Upload :
 
 Now that we are finished ;
-We can preview our effect to your Spark AR Player app or send to your instagram account :
+we can preview our effect to your **Spark AR Player** app or send **to your Instagram** account :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Preview_effect.png" width="300">
 
 We're ready to upload !
-On bottom of your screen, click Upload and Export and follow the process of uploading a filter to your account
+
+On bottom of your screen :
+* click Upload and Export
+* Follow the process of uploading a filter to your account
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Upload_and_Export.png" width="200">
 
 ## What’s next?
+
 Learn more about Spark AR Studio here :
 
 Download Spark AR Studio here [Download Spark AR](https://sparkar.facebook.com/ar-studio/download/)
 
-
 Link to the project on GitHub : https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer
-Link to additional resources to learn more about the key concepts : https://sparkar.facebook.com/ar-studio/learn/
-How to get feedback from the reader (for example, you can include social media links).
-Check out this template project as an example.
+
+Link to additional resources to learn : https://sparkar.facebook.com/ar-studio/learn/
+
+[**Join the Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
