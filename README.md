@@ -19,18 +19,16 @@ In this tutorial I’m using the version 99 of Spark AR Studio.
 ## Why You Should Use Spark AR ?
 
 <a href="https://sparkar.facebook.com/ar-studio/download/">
-  
-  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailTutorial.png" width="500">
-  </a>
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarlogo.svg" width="200">
+</a>
 
 **Spark AR** is the software we can download for free to create augmented reality (AR) for the facebook ecosystem.
 
 ## Walkthrough Video
 
 <a href="https://www.youtube.com/embed/1JrhmM9n-BU">
-  
-  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarlogo.svg" width="200">
-  </a>
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailTutorial.png" width="500">
+</a>
 
 #### [Link of the video](https://www.youtube.com/embed/1JrhmM9n-BU)
 
