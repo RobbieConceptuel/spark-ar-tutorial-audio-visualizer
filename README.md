@@ -23,9 +23,11 @@ In this tutorial I’m using the version 99 of Spark AR Studio.
 With more than 400,000 creators from 190 countries, Spark AR is the largest platform for mobile AR. 
 Over 1.2 million AR effects where published on Facebook and Instagram.
 
-  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarinsights.png" width="200">
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarinsights.png" width="500">
+
 
 **This is just the beginning**
+
 
 With or without code, Spark AR Studio enhances your creativity and expand your digital creative skills. 
 A powerful tool to create astonishing Augmented Reality effects.
