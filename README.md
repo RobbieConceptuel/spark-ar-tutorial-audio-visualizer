@@ -1,5 +1,7 @@
 # Spark AR - Audio Visualizer
 
+This tutorial is an entry for the [2020 Developer Circles Community Challenge](https://developercircles2020.devpost.com/) hosted by Facebook.
+
 ## Overview
 
 Welcome in this Spark AR Studio tutorial . 
@@ -17,6 +19,16 @@ This tutorial will cover :
 In this tutorial I’m using the version 99 of Spark AR Studio.
 
 ## Why You Should Use Spark AR ?
+
+With more than 400,000 creators from 190 countries, Spark AR is the largest platform for mobile AR. 
+Over 1.2 million AR effects where published on Facebook and Instagram.
+
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarinsights.png" width="200">
+
+**This is just the beginning**
+
+With or without code, Spark AR Studio enhances your creativity and expand your digital creative skills. 
+A powerful tool to create astonishing Augmented Reality effects.
 
 <a href="https://sparkar.facebook.com/ar-studio/download/">
   <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarlogo.svg" width="200">
@@ -188,4 +200,4 @@ Link to additional resources to learn : https://sparkar.facebook.com/ar-studio/l
 
 [**Join the Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
 
-*Made with love by Robbie Conceptuel - 2020*
+*Made with 💖 by Robbie Conceptuel - 2020*
