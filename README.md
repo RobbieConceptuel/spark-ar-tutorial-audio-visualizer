@@ -20,23 +20,28 @@ In this tutorial I’m using the version 99 of Spark AR Studio.
 
 ## Why You Should Use Spark AR ?
 
-With more than 400,000 creators from 190 countries, Spark AR is the largest platform for mobile AR. 
-Over 1.2 million AR effects where published on Facebook and Instagram.
+With more than 400,000 creators from 190 countries, Spark AR is the **largest platform for mobile AR** . 
+Over 1.2 million AR effects where published on Facebook and Instagram .
 
   <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarinsights.png" width="500">
 
 
 **This is just the beginning**
 
+We are still in the early days! Every update is a surprise with new features.
 
 With or without code, Spark AR Studio enhances your creativity and expand your digital creative skills. 
-A powerful tool to create astonishing Augmented Reality effects.
+A powerful software to create astonishing Augmented Reality effects.
+
+
+The best tool to reach a large audience!
+
 
 <a href="https://sparkar.facebook.com/ar-studio/download/">
   <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarlogo.svg" width="200">
 </a>
 
-**Spark AR** is the software we can download for free to create augmented reality (AR) for the facebook ecosystem.
+[Download Spark AR Studio](https://sparkar.facebook.com/ar-studio/download/)
 
 ## Walkthrough Video
 
