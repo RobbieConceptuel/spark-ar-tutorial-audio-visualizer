@@ -2,7 +2,7 @@
 
 This tutorial is an entry for the [2020 Developer Circles Community Challenge](https://developercircles2020.devpost.com/) hosted by Facebook.
 
-## Overview
+## Overview :mag:
 
 Welcome in this Spark AR Studio tutorial . 
 In this project, we will learn how to make an **audio visualizer** using the audio features in Spark AR.
@@ -18,7 +18,7 @@ This tutorial will cover :
 
 In this tutorial I’m using the version 99 of Spark AR Studio.
 
-## Why You Should Use Spark AR ?
+## Why You Should Use Spark AR ? :bulb:
 
 With more than 400,000 creators from 190 countries, Spark AR is the **largest platform for mobile AR** . 
 Over 1.2 million AR effects where published on Facebook and Instagram .
@@ -43,7 +43,7 @@ A powerful software to create astonishing Augmented Reality effects.
 
 [Download Spark AR Studio](https://sparkar.facebook.com/ar-studio/download/)
 
-## Walkthrough Video
+## Videos :clapper:
 
 A quick [Walkthrough Video](https://www.youtube.com/embed/1JrhmM9n-BU) of the tutorial.
 
@@ -60,9 +60,9 @@ It contains and show all the process described in this tutorial.
   <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailVideoTutorial.png" width="500">
 </a>
 
-#### [Step-by-step Video](https://www.youtube.com/embed/1JrhmM9n-BU)
+#### [Step-by-step Video](https://youtu.be/1BcGiDr2FO4)
 
-## Getting Started
+## Getting Started :walking:
 
 For this project we need :
 * [Download Spark AR](https://sparkar.facebook.com/ar-studio/download/)
@@ -123,7 +123,7 @@ The material should look like this :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Material.png" width="250">
 
-## Make the 3D object react to audio :
+## Make the 3D object react to audio :running:
 ### Edit Properties
 The features we are using are only available for Instagram.
 We have to disable Facebook as a platform.
@@ -133,7 +133,7 @@ Like this :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/EditProperties.png" width="500">
 
-### Audio Analyzer
+### Audio Analyzer :musical_keyboard:
 
 Now that your scene is placed, we open the Patch Editor :
 | View > Show/Hide Patch Editor
@@ -165,7 +165,7 @@ Change the values of the transition element to make it look like this :
 
 Link the Audio Analyzer > Transition > audioBar '3D Scale'
 
-### Add a Speaker
+### Add a Speaker :speaker:
 Now we have add a speaker to use it as the output of the audio.
 In you scene :
 * click on 'Add Object' and add a speaker
@@ -208,9 +208,11 @@ On bottom of your screen :
 
 ## What’s next?
 
+[Join a Developer Circles :eyes:](https://developers.facebook.com/developercircles/)
+
 Learn more about Spark AR Studio here :
 
-Download Spark AR Studio here [Download Spark AR](https://sparkar.facebook.com/ar-studio/download/)
+[Download Spark AR](https://sparkar.facebook.com/ar-studio/download/)
 
 Link to the project on GitHub : https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer
 
