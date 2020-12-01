@@ -26,7 +26,7 @@ Over 1.2 million AR effects where published on Facebook and Instagram .
   <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarinsights.png" width="500">
 
 
-**This is just the beginning**
+###**This is just the beginning**
 
 We are still in the early days! Every update is a surprise with new features.
 
@@ -34,7 +34,7 @@ With or without code, Spark AR Studio enhances your creativity and expand your d
 A powerful software to create astonishing Augmented Reality effects.
 
 
-The best tool to reach a large audience!
+###**The best tool to reach a large audience!**
 
 
 <a href="https://sparkar.facebook.com/ar-studio/download/">
@@ -46,10 +46,17 @@ The best tool to reach a large audience!
 ## Walkthrough Video
 
 <a href="https://www.youtube.com/embed/1JrhmM9n-BU">
-  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailTutorial.png" width="500">
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailTutorial.png" width="200">
 </a>
 
-#### [Link of the video](https://www.youtube.com/embed/1JrhmM9n-BU)
+#### [Walkthrough Video](https://www.youtube.com/embed/1JrhmM9n-BU)
+
+
+<a href="https://www.youtube.com/embed/1JrhmM9n-BU">
+  <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailTutorial.png" width="200">
+</a>
+
+#### [Step by Step Video](https://www.youtube.com/embed/1JrhmM9n-BU)
 
 ## Getting Started
 
@@ -207,4 +214,4 @@ Link to additional resources to learn : https://sparkar.facebook.com/ar-studio/l
 
 [**Join the Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
 
-*Made with 💖 by Robbie Conceptuel - 2020*
+*Made with :sparkling_heart: by Robbie Conceptuel - 2020*
