@@ -208,7 +208,7 @@ On bottom of your screen :
 
 ## What’s next? :smirk:
 
-[Join a Developer Circles :relieved:](https://developers.facebook.com/developercircles/)
+[**Join a Developer Circles :relieved:**](https://developers.facebook.com/developercircles/)
 
 Learn more about Spark AR Studio here :
 
