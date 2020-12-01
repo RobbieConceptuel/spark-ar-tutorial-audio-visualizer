@@ -191,7 +191,7 @@ Your patch should look like this :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Screenshot_SparkAR_Audio_Visualizer.png" width="600">
 
-## Preview and Upload :
+## Preview and Upload :rocket:
 
 Now that we are finished ;
 we can preview our effect to your **Spark AR Player** app or send **to your Instagram** account :
@@ -206,9 +206,9 @@ On bottom of your screen :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Upload_and_Export.png" width="200">
 
-## What’s next?
+## What’s next? :smirk:
 
-[Join a Developer Circles :eyes:](https://developers.facebook.com/developercircles/)
+[Join a Developer Circles :relieved:](https://developers.facebook.com/developercircles/)
 
 Learn more about Spark AR Studio here :
 
