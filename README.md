@@ -49,14 +49,17 @@ A powerful software to create astonishing Augmented Reality effects.
   <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailTutorial.png" width="200">
 </a>
 
-#### [Walkthrough Video](https://www.youtube.com/embed/1JrhmM9n-BU)
+A quick [Walkthrough Video](https://www.youtube.com/embed/1JrhmM9n-BU) of the tutorial.
+
+The following video is a step-by-step video tutorial.
+It contains and show all the process described in this tutorial.
 
 
 <a href="https://www.youtube.com/embed/1JrhmM9n-BU">
   <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/thumbnailTutorial.png" width="500">
 </a>
 
-#### [Step by Step Video](https://www.youtube.com/embed/1JrhmM9n-BU)
+#### [Step-by-step Video](https://www.youtube.com/embed/1JrhmM9n-BU)
 
 ## Getting Started
 
