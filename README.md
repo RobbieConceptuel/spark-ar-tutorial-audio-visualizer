@@ -1,6 +1,7 @@
 # Spark AR - Audio Visualizer
 
 This tutorial is an entry for the [2020 Developer Circles Community Challenge](https://developercircles2020.devpost.com/) hosted by Facebook.
+**Regional Winner** 🏅
 
 ## Overview :mag:
 
