@@ -222,4 +222,4 @@ Link to additional resources to learn : https://sparkar.facebook.com/ar-studio/l
 
 [**Join the Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
 
-*Made with :sparkling_heart: by Robbie Conceptuel - Updated in 2021*
+*Made with :sparkling_heart: by Robbie Conceptuel - Updated in 2022*
