@@ -6,8 +6,8 @@ This tutorial is an entry for the [2020 Developer Circles Community Challenge](h
 
 ## Overview :mag:
 
-Welcome in this Spark AR Studio tutorial . 
-In this project, we will learn how to make an **audio visualizer** using the audio features in Spark AR.
+Welcome in this Meta Spark AR Studio tutorial . 
+In this project, we will learn how to make an **audio visualizer** using the audio features in Meta Spark AR.
 This is a tutorial for beginner.
 
 At the end of the tutorial you will learn how to make an Audio Visualizer like this:
@@ -18,11 +18,11 @@ This tutorial will cover :
 * importing the 3d object
 * Make it react to audio using the Patch Editor
 
-In this tutorial I’m using the version 99 of Spark AR Studio.
+In this tutorial I’m using the version 99 of Meta Spark AR Studio.
 
-## Why You Should Use Spark AR ? :bulb:
+## Why You Should Use Meta Spark AR ? :bulb:
 
-With more than 400,000 creators from 190 countries, Spark AR is the **largest platform for mobile AR** . 
+With more than 400,000 creators from 190 countries, Meta Spark AR is the **largest platform for mobile AR** . 
 Over 1.2 million AR effects where published on Facebook and Instagram .
 
   <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarinsights.png" width="500">
@@ -32,7 +32,7 @@ Over 1.2 million AR effects where published on Facebook and Instagram .
 
 We are still in the early days! Every update is a surprise with new features.
 
-With or without code, Spark AR Studio enhances your creativity and expand your digital creative skills. 
+With or without code, Meta Spark AR Studio enhances your creativity and expand your digital creative skills. 
 A powerful software to create astonishing Augmented Reality effects.
 
 
@@ -43,7 +43,7 @@ A powerful software to create astonishing Augmented Reality effects.
   <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/sparkarlogo.svg" width="200">
 </a>
 
-[Download Spark AR Studio](https://sparkar.facebook.com/ar-studio/download/)
+[Download Meta Spark AR Studio](https://sparkar.facebook.com/ar-studio/download/)
 
 ## Videos :clapper:
 
@@ -67,12 +67,12 @@ It contains and show all the process described in this tutorial.
 ## Getting Started :walking:
 
 For this project we need :
-* [Download Spark AR](https://sparkar.facebook.com/ar-studio/download/)
+* [Download Meta Spark AR](https://sparkar.facebook.com/ar-studio/download/)
 * 3D model in the folder 3D-model [link to model](https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/3D-model/audioBar.fbx)
-* Having Spark AR Player installed in your phone [link to Spark AR Player](https://sparkar.facebook.com/ar-studio/learn/downloads/)
+* Having Meta Spark AR Player installed in your phone [link to Meta Spark AR Player](https://sparkar.facebook.com/ar-studio/learn/downloads/)
 
 
-To start this tutorial, you need to **download** the software Spark AR Studio and **open** it.
+To start this tutorial, you need to **download** the software Meta Spark AR Studio and **open** it.
 You also need the 3D model '**audioBar.fbx**' in the folder '3D-model'.
 We will see the audio nodes in the patch editor and use it.
 
@@ -196,7 +196,7 @@ Your patch should look like this :
 ## Preview and Upload :rocket:
 
 Now that we are finished ;
-we can preview our effect to your **Spark AR Player** app or send **to your Instagram** account :
+we can preview our effect to your **Meta Spark AR Player** app or send **to your Instagram** account :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Preview_effect.png" width="300">
 
@@ -212,14 +212,14 @@ On bottom of your screen :
 
 [**Join a Developer Circles :relieved:**](https://developers.facebook.com/developercircles/)
 
-Learn more about Spark AR Studio here :
+Learn more about Meta Spark AR Studio here :
 
-[Download Spark AR](https://sparkar.facebook.com/ar-studio/download/)
+[Download Meta Spark AR](https://sparkar.facebook.com/ar-studio/download/)
 
 Link to the project on GitHub : https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer
 
 Link to additional resources to learn : https://sparkar.facebook.com/ar-studio/learn/
 
-[**Join the Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
+[**Join the Meta Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
 
 *Made with :sparkling_heart: by Robbie Conceptuel - Updated in 2022*
