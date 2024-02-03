@@ -1,4 +1,5 @@
 # Spark AR - Audio Visualizer
+using the software Meta Spark Studio
 
 This tutorial is an entry for the [2020 Developer Circles Community Challenge](https://developercircles2020.devpost.com/) hosted by Facebook.
 
@@ -222,4 +223,4 @@ Link to additional resources to learn : https://sparkar.facebook.com/ar-studio/l
 
 [**Join the Meta Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
 
-*Made with :sparkling_heart: by Robbie Conceptuel - Updated in 2022*
+*Made with :sparkling_heart: by Robbie Conceptuel - Updated in 2024*
