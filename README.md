@@ -1,4 +1,22 @@
 # Spark AR - Audio Visualizer
+
+**Note: As of January 2025, Meta Spark AR Studio has been officially discontinued by Meta Platforms Inc.**  
+
+## What is Spark AR Studio?  
+Spark AR Studio is software developed by Meta Platforms Inc. that allowed users to create interactive augmented reality (AR) experiences.  
+It has been widely used to create popular AR filters for Instagram, Facebook, and other social platforms.  
+With its intuitive tools and strong community, Spark AR played a key role in the rise of augmentism, a trend that blends art and technology to enhance our perception of the world through digital experiences.
+
+### The End of Spark AR Studio  
+In January 2025, Meta Platforms Inc. decided to end the development and support of Spark AR Studio, marking the conclusion of a platform that significantly contributed to the growth of augmented reality in social media.
+
+---
+
+A heartfelt thank you to everyone who contributed to Spark AR Studio, its resources, and the advancement of augmentism.  
+Your creativity, passion, and dedication have left a lasting impact on the world of augmented reality.  
+
+---
+
 using the software Meta Spark Studio
 
 This tutorial is an entry for the [2020 Developer Circles Community Challenge](https://developercircles2020.devpost.com/) hosted by Facebook.
@@ -209,18 +227,9 @@ On bottom of your screen :
 
 <img src="https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer/blob/main/images/Upload_and_Export.png" width="200">
 
-## What’s next? :smirk:
 
-[**Join a Developer Circles :relieved:**](https://developers.facebook.com/developercircles/)
-
-Learn more about Meta Spark AR Studio here :
-
-[Download Meta Spark AR](https://sparkar.facebook.com/ar-studio/download/)
 
 Link to the project on GitHub : https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer
 
-Link to additional resources to learn : https://sparkar.facebook.com/ar-studio/learn/
-
-[**Join the Meta Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
 
 *Made with :sparkling_heart: by Robbie Conceptuel - Updated in 2024*
